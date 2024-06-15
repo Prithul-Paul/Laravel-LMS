@@ -1,0 +1,2 @@
+<h2>Hi {{ $name }}</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa veniam, atque unde dicta minima error consectetur esse similique recusandae! Eos perspiciatis doloremque incidunt accusantium obcaecati quos. Perspiciatis doloremque autem tenetur a sit. Quas, nemo.</p>
